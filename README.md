@@ -1,6 +1,6 @@
 # Arun-cv
 # webpage
-![image](https://roadmap.sh/projects/basic-html-website?semt=ais_hybrid?raw=true)
+![image](https://roadmap.sh/projects/single-page-cv?semt=ais_hybrid?raw=true)
 
 ## 🛠️ Features  
 
